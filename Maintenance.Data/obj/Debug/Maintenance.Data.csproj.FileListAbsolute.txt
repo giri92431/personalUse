@@ -1,0 +1,13 @@
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.csprojResolveAssemblyReference.cache
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.Migrations.init.resources
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.csproj.GenerateResource.Cache
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\Maintenance.Data.dll
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\Maintenance.Data.pdb
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\EntityFramework.dll
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\Maintenance.Domain.dll
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\Maintenance.Domain.pdb
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\EntityFramework.xml
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.dll
+C:\Users\girish.kumar\Downloads\entity-framework-enterprise-update\8-entity-framework-enterprise-m8-exercise-files\M8_After\MVCSalesApp\Maintenance.Data\obj\Debug\Maintenance.Data.pdb
